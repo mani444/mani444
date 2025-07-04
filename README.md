@@ -1,6 +1,7 @@
 # 💫 About Me:
-Full stack developer with 5+ years building web apps using React, Node.js, and the MERN stack<br>Currently working as a Senior Software Engineer in Lahore, leading small teams and focusing on performance improvements<br>I enjoy working on both frontend and backend, from creating smooth user interfaces to building solid APIs and databases
-
+- **Full Stack Engineer** with 5+ years crafting end-to-end solutions that users actually love<br>
+-  From **React frontends smooth UIs** to **Node.js backends solid APIs** - I build the complete experience<br>
+-  Passionate about **clean code, team leadership,** and turning complex problems into simple solutions
 
 
 
